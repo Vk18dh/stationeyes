@@ -1,0 +1,16 @@
+{
+  "short_name": "StationEyes",
+  "name": "Station Eyes - Indian Railways Assistant",
+  "icons": [
+    {
+      "src": "/vite.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#0F1117",
+  "theme_color": "#FFC72C",
+  "display": "standalone",
+  "orientation": "portrait"
+}
